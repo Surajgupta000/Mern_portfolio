@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Surajgupta000/Mern_portfolio.git/static/css/main.d9c2977a.css",
+    "main.js": "/Surajgupta000/Mern_portfolio.git/static/js/main.40d1ff74.js",
+    "static/js/453.419a5d54.chunk.js": "/Surajgupta000/Mern_portfolio.git/static/js/453.419a5d54.chunk.js",
+    "index.html": "/Surajgupta000/Mern_portfolio.git/index.html",
+    "main.d9c2977a.css.map": "/Surajgupta000/Mern_portfolio.git/static/css/main.d9c2977a.css.map",
+    "main.40d1ff74.js.map": "/Surajgupta000/Mern_portfolio.git/static/js/main.40d1ff74.js.map",
+    "453.419a5d54.chunk.js.map": "/Surajgupta000/Mern_portfolio.git/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9c2977a.css",
+    "static/js/main.40d1ff74.js"
+  ]
+}
